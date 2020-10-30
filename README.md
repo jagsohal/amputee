@@ -1,0 +1,2 @@
+# amputee
+GitHub Pages
